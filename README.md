@@ -1,47 +1,71 @@
 # Akash Shibu
 
-🤖 Telegram Bot Developer • Python • Automation
+Backend Developer | Telegram Automation Systems | Python • Pyrogram • MongoDB
 
 ---
 
 ## About
 
-Building fast and scalable Telegram bots with a strong focus on performance, clean design, and efficient systems.
+I build high-performance Telegram bots focused on scalability, efficiency, and clean backend architecture.
 
-Continuously improving backend logic, database optimization, and delivering seamless user experiences.
+My work centers around automation systems, database optimization, and creating seamless user experiences for large-scale bot deployments.
 
 ---
 
-## 🛠️ Tech Stack
+## Focus
 
-Python • MongoDB • Pyrogram • Git
+* Telegram Automation Systems
+* Backend Logic & Optimization
+* Database Design (MongoDB)
+* Scalable Bot Architecture
+* Performance-Oriented Development
+
+---
+
+## Tech Stack
+
+Python • Pyrogram • MongoDB • Asyncio • REST APIs
 
 ---
 
 ## Projects
 
-* 🎬 Movie Auto Filter Bot — Fast search, smart filters, no duplicates
-* ⚡ Nairobi Bot — Optimized Telegram bot with clean UI and performance focus
-* 🤖 Auto Forward Bot — Automated message forwarding system
+### Advanced Movie Auto Filter Bot
+
+* Fast and efficient media filtering system
+* Duplicate file detection and removal
+* Optimized database queries for quick response
+* Inline buttons and clean UI
+
+### Subscription Management Bot
+
+* Automated user access control
+* Expiry-based subscription system
+* Secure handling of user data
+
+### Utility Automation Bot
+
+* File indexing and retrieval system
+* Scalable structure for handling large datasets
+* Modular backend design
 
 ---
 
-## Focus
+## Approach
 
-## Focus
-
-Engineering high-performance, low-latency systems  
-Designing intelligent and efficient filtering logic  
-Ensuring clean, duplicate-free data handling  
-Crafting simple and intuitive user experiences  
-Building scalable and optimized backend architectures  
+* Write clean, maintainable code
+* Focus on performance and scalability
+* Avoid unnecessary complexity
+* Build systems that handle real-world usage
 
 ---
 
-## 📫 Contact
+## Current Work
 
-Telegram: @madshifter
+Improving bot performance, reducing latency, and building more scalable Telegram automation systems.
 
 ---
 
-⭐ Build fast. Keep it clean. Scale smart.
+## Contact
+
+GitHub: https://github.com/AKASH1234-bot
