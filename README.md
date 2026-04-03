@@ -26,7 +26,7 @@ Python • MongoDB • Pyrogram • Git
 
 ---
 
-## 🔥 Focus
+## Focus
 
 ## Focus
 
