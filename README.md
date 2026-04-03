@@ -28,8 +28,6 @@ Python • MongoDB • Pyrogram • Git
 
 ## Focus
 
-## Focus
-
 > Engineering high-performance, low-latency systems  
 > Designing intelligent and efficient filtering logic  
 > Ensuring clean, duplicate-free data handling  
